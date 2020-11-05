@@ -15,6 +15,11 @@ body
     border: solid #DDD;
     margin: 0 auto;
 }
+#footer
+{
+    background: darkred
+  
+}
 
 #container h1
 {

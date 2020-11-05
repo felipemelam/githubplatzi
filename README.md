@@ -11,4 +11,9 @@ Un Blog para el aprendizaje de Git-hub
 * Todos los comandos
 * Flujo de trabajo GitHub
 * creado por Felipemelteam
+<<<<<<< HEAD
 * incluye ejemplos Linux windows y MaC
+=======
+* incluye ejemplos Linux windows y MaC
+ * Disponible para todas las edades
+>>>>>>> reedme-mejorado
